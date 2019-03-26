@@ -13,15 +13,4 @@
         android:onClick="clickme"
         android:layout_centerInParent="true"/>
 
-    <TextView
-        android:id="@+id/helloworld"
-        android:layout_width="wrap_content"
-        android:layout_above="@id/button"
-        android:layout_centerHorizontal="true"
-        android:textColor="#000"
-        android:layout_marginBottom="90dp"
-        android:textSize="30sp"
-        android:text=""
-        android:layout_height="wrap_content"/>
-
 </RelativeLayout>
